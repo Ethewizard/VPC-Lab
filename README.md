@@ -24,8 +24,4 @@ Cloud Shell
 ## Steps
 
 Here’s how you'll do this task: First, you’ll create a network. Next, you’ll create a subnet within the network. Then, you’ll view the created networks. Finally, you’ll list all subnets created within the networks.
-What information do you need to be able to recover immediately? 
 
-What processes are in place to help the organization recover from the incident? 
-
-Write your response in the “recover” portion of the worksheet.
